@@ -1,0 +1,14 @@
+﻿# clion
+.idea/
+cmake-build-debug/*
+build/*
+
+# vs
+.vs
+VideoPlayer/x64/*
+x64/*
+debug/*
+*.log
+
+
+
